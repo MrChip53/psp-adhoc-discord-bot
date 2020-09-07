@@ -24,7 +24,7 @@ async def on_message(message):
 	webpageResponse = urllib.request.urlopen('https://www.socomftb2.com/status.xml')
 	webpageContent = webpageResponse.read()
 	
-	webXML = minidom.parseString(webpageContent.decode("utf-8")) #See if we can change to .parse(url)
+	webXML = minidom.parseString(webpageContent.decode("utf-8"))
 	
 	gameList = webXML.getElementsByTagName('game')
 
