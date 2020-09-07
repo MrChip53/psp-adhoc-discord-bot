@@ -35,6 +35,11 @@ async def on_message(message):
 
 def formatOnlineEmbed(gameList):
 	embedVar = discord.Embed()
+	if len(gameList) < 1:
+		embedVar.add_field(name='No games!', value='No players online!')
+		return embedVar
+		
+	
 	for game in gameList:
 	
 		playerList = game.getElementsByTagName('user')
