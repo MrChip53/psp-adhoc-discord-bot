@@ -1,6 +1,7 @@
 import os
 
 import discord
+from discord.ext import commands
 
 import random
 from xml.dom import minidom
@@ -10,28 +11,31 @@ from dotenv import load_dotenv
 load_dotenv()
 bot_token = os.getenv('DISCORD_TOKEN')
 
-client = discord.Client()
+bot = commands.Bot(command_prefix='!')
 
-@client.event
+@bot.event
 async def on_ready():
-	print(f'{client.user} has connected to Discord!')
+	print(f'{bot.user} has connected to Discord!')
 	
-@client.event
-async def on_message(message):
-	if message.author == client.user:
-		return
-
-	webpageResponse = urllib.request.urlopen('https://www.socomftb2.com/status.xml')
-	webpageContent = webpageResponse.read()
+@bot.event	
+async def on_member_join(member):
+	pass
 	
-	webXML = minidom.parseString(webpageContent.decode("utf-8"))
+@bot.command()
+async def online(ctx):
+	async with ctx.typing():
 	
-	gameList = webXML.getElementsByTagName('game')
+		print('Online command received')
+		webpageResponse = urllib.request.urlopen('https://www.socomftb2.com/status.xml')
+		webpageContent = webpageResponse.read()
+		
+		webXML = minidom.parseString(webpageContent.decode("utf-8"))
+		
+		gameList = webXML.getElementsByTagName('game')
+			
+		response = formatOnlineEmbed(gameList)
 
-	response = formatOnlineEmbed(gameList)
-
-	if message.content == '!online':
-		await message.channel.send('Online Players', embed=response)
+		await ctx.send('Online Players', embed=response)
 
 def formatOnlineEmbed(gameList):
 	embedVar = discord.Embed()
@@ -50,9 +54,12 @@ def formatOnlineEmbed(gameList):
 		
 		playerString = playerString + '```'
 		
-		embedVar.add_field(name=game.attributes['name'].value, value='Players Online: ' + game.attributes['usercount'].value + '\n' + playerString, inline=True)
+		embedVar.add_field(name=game.attributes['name'].value, value='Players Online: ' + game.attributes['usercount'].value + '\n' + playerString, inline=False)
 		
 		
 	return embedVar
 
-client.run(bot_token)
+
+#bot.add_command(online)
+
+bot.run(bot_token)

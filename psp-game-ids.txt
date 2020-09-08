@@ -1,0 +1,688 @@
+300: March to Glory [EU] {ULES-00766}
+300: March to Glory [US] {ULUS-10241}
+50 Cent: Bulletproof [EU] {ULES-00452}
+50 Cent: Bulletproof [US] {ULUS-10128}
+7 Wonders of the Ancient World [EU] {ULES-01037}
+7 Wonders of the Ancient World [US] {ULUS-10227}
+Activision Hits Remixed [US] {ULUS-10186}
+Adventures to Go [US] {ULUS-10417}
+Aedis Eclipse: Generation of Chaos [JP] {ULJM-05124}
+Aedis Eclipse: Generation of Chaos [US] {ULUS-10242}
+After Burner: Black Falcon [US] {ULUS-10244}
+Age of Zombies (mini) [EU] {NPEZ-00044}
+Age of Zombies (mini) [US] {NPUZ-00024}
+Alien Havoc (mini) [EU] {NPEZ-00025}
+Alien Havoc (mini) [US] {NPUZ-00008}
+Alien Zombie Death (mini) [EU] {NPEZ-00115}
+Aliens vs Predator: Requiem [EU] {ULES-00972}
+Aliens vs Predator: Requiem [US] {ULUS-10327}
+Ape Academy 2 [EU] {UCES-00302}
+Ape Escape [EU] {UCES-00045}
+Archer Maclean’s Mercury [US] {ULUS-10017}
+Armored Core 3 Portable [JP] {ULJM-05492}
+Armored Core 3 Portable [US] {NPUH-10023}
+Armored Core Formula Front [JP] {ULJS-19001}
+Army of Two: The 40th Day (demo) [EU] {NPEH-90028}
+Army of Two: The 40th Day (demo) [US] {NPUH-90067}
+Army of Two: The 40th Day [US] {ULUS-10472}
+Asphalt: Urban GT 2 [EU] {ULES-00719}
+Assassin’s Creed: Bloodlines [EU] {ULES-01367}
+Assassin’s Creed: Bloodlines [JP] {ULJM-05571}
+Assassin’s Creed: Bloodlines [US] {ULUS-10455}
+Astonishia Story [JP] {ULJM-05176}
+Atari Classics Evolved [US] {ULUS-10325}
+ATOM [JP] {ULJS-00234}
+Avatar: The Last Airbender [US] {ULUS-10165}
+Baku-no [JP] {ULJS-00017}
+Battle Poker (mini) [US] {NPUZ-00020}
+Beam ‘em Up (mini) [EU] {NPEZ-00081}
+Ben 10 Alien Force [EU] {ULES-01189}
+Ben 10 Protector of Earth [EU] {ULES-00905}
+Beowulf [EU] {ULES-00992}
+Beta BLOC [EU] {ULES-00792}
+Beta BLOC [US] {NPUH-10029}
+Blade Dancer: Lineage of Light [US] {ULUS-10124}
+Blast Off (mini) [EU] {NPEZ-00041}
+Blast Off (mini) [US] {NPUZ-00021}
+BlazBlue Calamity Trigger Portable [JP] {NPJH-50180}
+Blazing AC [JP] {ULJM-05490}
+Bleach: Soul Carnival 2 [JP] {UCJS-10106}
+Bloons (mini) [EU] {NPEZ-00045}
+Bloons (mini) [US] {NPUZ-00010}
+Bomberman Land [EU] {ULES-00811}
+Bounty Hounds [US] {ULUS-10161}
+Brain Challenge [US] {NPUH-10006}
+Brainpipe (mini) [EU] {NPEZ-00046}
+Brainpipe (mini) [US] {NPUZ-00009}
+Brandish Dark Revenant [JP] {ULJM-05424}
+Brave Man 30 [JP] {ULJS-00195}
+Brave Story: Aratanaru Tabibito [JP] {UCJS-10024}
+Brave Story: New Traveller [US] {ULUS-10279}
+BreakQuest (mini) [EU] {NPEZ-00011}
+Breath of Fire III [EU] {ULES-00193}
+Brother In Arms D-Day [EU] {ULES-00608}
+Bubble Trubble (mini) [EU] {NPEZ-00023}
+Bubble Trubble (mini) [US] {NPUZ-00007}
+Burnout Dominator [US] {ULUS-10236}
+Burnout Legends [EU] {ULES-00125}
+Bust A Move Deluxe [US] {ULUS-10057}
+Cabela’s African Safari [US] {ULUS-10175}
+Call of Duty: Road to Victory [US] {ULUS-10218}
+Capcom Classics Collection: Reloaded [US] {ULUS-10134}
+Capcom Classics Collection: Remixed [US] {ULUS-10097}
+Cars [EU] {ULES-00319}
+Cars: Race-O-Rama [US] {ULUS-10428}
+CID The Dummy [EU] {ULES-01024}
+CID The Dummy [US] {ULUS-10356}
+Cloudy With a Chance of Meatballs [EU] {ULES-01318}
+Coded Arms [EU] {ULES-00124}
+Coded Arms [US] {ULUS-10019}
+Coded Arms: Contagion [US] {ULUS-10184}
+Coded Soul [JP] {UCJS-10061}
+Colin McRae DiRT 2 [EU] {ULES-01301}
+Colin McRae DiRT 2 [US] {ULUS-10471}
+Con, The [EU] {ULES-00509}
+Crash Mind Over Mutant [EU] {ULES-01170}
+Crash of the Titans [EU] {ULES-00918}
+Crash of the Titans [IT] {ULES-00915}
+Crash Tag Team Racing [US] {ULUS-10044}
+Crazy Taxi: Fare Wars [EU] {ULES-00959}
+Crazy Taxi: Fare Wars [US] {ULUS-10273}
+Creature Defense [US] {NPUH-10034}
+Crimsongem Saga [CN] {UCAS-40212}
+Crisis Core: Final Fantasy VII [DE] {ULES-01046}
+Crisis Core: Final Fantasy VII [EU] {ULES-01044}
+Crisis Core: Final Fantasy VII [FR] {ULES-01045}
+Crisis Core: Final Fantasy VII [IT] {ULES-01047}
+Crisis Core: Final Fantasy VII [JP] {ULJM-05275}
+Crisis Core: Final Fantasy VII [JP] {ULJM-05254}
+Crisis Core: Final Fantasy VII [US] {ULUS-10336}
+Crystal Defenders (demo) [EU] {NPEH-90022}
+Crystal Defenders (demo) [JP] {NPJH-90066}
+Crystal Defenders (demo) [US] {NPUH-90048}
+Crystal Defenders [EU] {NPEH-00017}
+Crystal Defenders [US] {NPUH-10026}
+Cubixx (mini) [EU] {NPEZ-00101}
+D-Cube Planet (mini) [EU] {NPEZ-00008}
+D-Cube Planet (mini) [US] {NPUZ-00027}
+Daisenryaku: Dai Toua Kouboushi [JP] {ULJS-00147}
+Dante’s Inferno [EU] {ULES-01384}
+Dante’s Inferno [US] {ULUS-10469}
+DarkStalkers Chronicle The Chaos Tower [EU] {ULES-00016}
+Darkstalkers Chronicle: The Chaos Tower [JP] {ULJM-05005}
+Daxter [EU] {UCES-00044}
+Daxter [US] {UCUS-98618}
+Dead Head Fred [EU] {ULES-00902}
+Dead to Rights: Reckoning [EU] {ULES-00195}
+Dead to Rights: Reckoning [US] {ULUS-10023}
+Death Jr [US] {ULUS-10027}
+Derby Stallion P [JP] {ULJS-00045}
+Diner Dash [EU] {ULES-00755}
+Diner Dash [US] {ULUS-10264}
+Disgaea 2: Dark Hero Days [US] {ULUS-10461}
+Disgaea: Afternoon of Darkness [EU] {ULES-00999}
+Dissidia Final Fantasy (demo) [EU] {NPEH-90014}
+Dissidia Final Fantasy (demo) [US] {NPUH-90029}
+Dissidia Final Fantasy Universal Tuning [JP] {ULJM-05550}
+Dissidia Final Fantasy [EU] {ULES-01270}
+Dissidia Final Fantasy [JP] {ULJM-05262}
+Dissidia Final Fantasy [US] {ULUS-10437}
+DJ Max Fever [US] {ULUS-10403}
+DJ Max Portable 2 [KR] {ULKS-46116}
+DJ Max Portable Black Square [KR] {ULKS-46189}
+DJ Max Portable Clazziquai Edition [KR] {ULKS-46191}
+Dokoitsu Let’s Gakkou! [JP] {UCJB-98010}
+Dracula: Undead Awakening (mini) [EU] {NPEZ-00124}
+Dracula: Undead Awakening (mini) [US] {NPUZ-00046}
+Dragon Ball Evolution [EU] {ULES-01227}
+Dragon Ball Evolution [JP] {ULJS-00184}
+Dragon Ball Evolution [US] {ULUS-10415}
+Dragon Ball Z Shin Budokai 2 [EU] {ULES-00789}
+Dragon Ball Z Shin Budokai 2 [JP] {ULJS-00107}
+Dragon Ball Z Shin Budokai Another Road [US] {ULUS-10234}
+Dragon Ball Z Shin Budokai [EU] {ULES-00309}
+Dragon Ball Z Shin Budokai [JP] {ULJS-00049}
+Dragoneer’s Aria [EU] {ULES-01004}
+Driver 76 [EU] {ULES-00740}
+DT Carnage [US] {ULUS-10406}
+Dungeon Maker 2: The Hidden War [JP] {ULJM-05294}
+Dungeon Maker 2: The Hidden War [US] {ULUS-10393}
+Dungeon Siege: Throne of Agony [EU] {ULES-00569}
+Dungeons & Dragons: Tactics [US] {ULUS-10232}
+Dynasty Warriors Strikeforce [EU] {ULES-01221}
+DynoGems (mini) [EU] {NPEZ-00117}
+DynoGems (mini) [US] {NPUZ-00036}
+Echoes (mini) [EU] {NPEZ-00042}
+Echoes (mini) [US] {NPUZ-00022}
+Enkaku Sousa: Sana e no 23 Hiai [JP] {UCJS-10088}
+Evangelion: Jo [JP] {ULJS-00201}
+Every Extend Extra [EU] {ULES-00468}
+Everybody’s Golf 2 (demo 1) [EU] {NPEG-90008}
+Everybody’s Golf 2 (demo 2) [EU] {NPEG-90009}
+Everybody’s Golf 2 [EU] {UCES-00767}
+Everybody’s Golf [EU] {UCES-00012}
+Exit 2 (demo) [JP] {HB56DF2E13}
+Exit 2 [EU] {ULES-00620}
+Exit [EU] {ULES-00285}
+Exit [US] {ULUS-10074}
+Fast and the Furious, The [US] {ULUS-10198}
+Fate/Unlimited Codes Portable [JP] {ULJM-05451}
+Fieldrunners (mini) [EU] {NPEZ-00098}
+Fieldrunners (mini) [US] {NPUZ-00014}
+FIFA 06 [EU] {ULES-00340}
+FIFA 07 [EU] {ULES-00440}
+FIFA 09 [EU] {ULES-01135}
+FIFA 10 [EU] {ULES-01322}
+FIFA Street 2 [EU] {ULES-00264}
+Final Fantasy I: Anniversary Edition [EU] {ULES-00986}
+Final Fantasy I: Anniversary Edition [US] {ULUS-10251}
+Final Fantasy II: Anniversary Edition [EU] {ULES-00987}
+Final Fantasy II: Anniversary Edition [US] {ULUS-10263}
+Final Fantasy Tactics: The War of the Lions [EU] {ULES-00850}
+Final Fantasy Tactics: The War of the Lions [JP] {ULJM-05194}
+Final Fantasy Tactics: The War of the Lions [US] {ULUS-10297}
+Fired Up [EU] {UCES-00015}
+Fired Up [KR] {UCKS-45013}
+Ford Street Racing L.A. DUEL [EU] {ULES-00564}
+Fortix (mini) [EU] {NPEZ-00096}
+Fortix (mini) [US] {NPUZ-00016}
+Free Running [EU] {ULES-00704}
+FullMetal Alchemist: Senaka wo Takuseshimono [JP] {ULJS-00220}
+Funky Punch (mini) [EU] {NPEZ-00004}
+Funky Punch (mini) [US] {NPUZ-00011}
+G-Force [EU] {ULES-01238}
+G-Force [US] {ULUS-10439}
+G.I. JOE: The Rise of Cobra [EU] {ULES-01277}
+G.I. JOE: The Rise of Cobra [US] {ULUS-10435}
+Gangs of London [EU] {ULES-00113}
+Genso Suikoden 1 and 2 [JP] {ULJM-05086}
+Ghost Rider [EU] {ULES-00630}
+Ghost Rider [US] {ULUS-10210}
+Giren No Yabou Kyoui V [JP] {ULJS-00178}
+God of War: Chains of Olympus (demo) [EU] {UCED-00970}
+God of War: Chains of Olympus (demo) [EU] {UCED-00971}
+God of War: Chains of Olympus (demo) [US] {UCUS-98713}
+God of War: Chains of Olympus [EU] {UCES-00842}
+God of War: Chains of Olympus [EU] {NPEG-00023}
+God of War: Chains of Olympus [JP] {ULJM-05348}
+God of War: Chains of Olympus [US] {UCUS-98653}
+God of War: Chains of Olympus [US] {NPUG-80325}
+Gottlieb Pinball Classics [EU] {ULES-00212}
+Gran Turismo [EU] {UCES-01245}
+Gran Turismo [JP] {UCJS-10100}
+Gran Turismo [US] {UCUS-98632}
+GripShift [EU] {ULES-00177}
+GripShift [JP] {ULJM-05089}
+GripShift [US] {ULUS-10040}
+GTA: Chinatown Wars [EU] {ULES-01347}
+GTA: Chinatown Wars [US] {ULUS-10490}
+GTA: Liberty City Stories [EU] {ULES-00151}
+GTA: Liberty City Stories [US] {ULUS-10041}
+GTA: Vice City Stories [EU] {ULES-00502}
+GTA: Vice City Stories [US] {ULUS-10160}
+Guilty Gear XX Accent Core Plus [JP] {ULJM-05355}
+Gun Showdown [EU] {ULES-00484}
+Gundam vs Gundam [JP] {ULJS-00165}
+Gurumin [EU] {ULES-00627}
+Half-Minute Hero [EU] {ULES-01359}
+Half-Minute Hero [US] {ULUS-10491}
+Half-Minute Hero: Evil Lord 30 (demo) [US] {NPUH-90046}
+Half-Minute Hero: Hero 30 (demo) [EU] {NPEH-90026}
+Half-Minute Hero: Hero 30 (demo) [US] {NPUH-90031}
+Hammerin’ Hero [US] {ULUS-10392}
+Harry Potter and the Half Blood Prince [EU] {ULES-01180}
+Harry Potter and the Half Blood Prince [US] {ULUS-10381}
+Harry Potter and the Order of the Phoenix [EU] {ULES-00829}
+Harvest Moon: Innocent Life [EU] {ULES-00658}
+Hatsune Miku Project Diva [JP] {ULJM-05472}
+Hellboy: The Science of Evil [US] {ULUS-10301}
+Hero of Sparta (mini) [EU] {NPEZ-00031}
+Hero of Sparta (mini) [US] {NPUZ-00005}
+Higurashi Daybreak Portable [JP] {ULJM-05388}
+Hohei 2, The: Senyuu yo, Sakini Ike [JP] {ULJS-00207}
+Hokuto no Ken: Raoh Gaiden – Ten no Haoh [JP] {ULJM-05404}
+Holy Invasion of Privacy, Badman! (demo) [EU] {NPEH-90015}
+Holy Invasion of Privacy, Badman! (demo) [JP] {HBA2D25821}
+Holy Invasion of Privacy, Badman! (demo) [US] {NPUH-90028}
+Holy Invasion of Privacy, Badman! 2 (demo) [JP] {NPJG-90025}
+Holy Invasion of Privacy, Badman! 2 (demo) [US] {NPUH-90056}
+Holy Invasion of Privacy, Badman! [US] {ULUS-10456}
+Hoshigari Empusa Portable [JP] {ULJS-00172}
+Hot Shot’s Golf: Open Tee 2 (demo) [US] {NPUG-70014}
+Hot Shots Golf: Open Tee [US] {UCUS-98614}
+Hot Wheels Ultimate Racing [US] {ULUS-10239}
+HotBrain [US] {ULUS-10268}
+I Simpson Il Videogioco [IT] {ULES-00977}
+Idol M@ster SP Missing Moon, The [JP] {ULJS-00169}
+Idol M@ster SP Perfect Sun, The [JP] {ULJS-00167}
+Idol M@ster SP Wandering Star, The [JP] {ULJS-00168}
+Ikkitousen Eloquent Fist [JP] {ULJS-00152}
+Impossible Mission [EU] {ULES-00764, PSPAR}
+Indiana Jones and the Staff of Kings [EU] {ULES-00939}
+Indiana Jones and the Staff of Kings [US] {ULUS-10316}
+Infected [US] {ULUS-10054}
+Initial D [JP] {ULJS-00063}
+Iron Man [US] {ULUS-10347}
+Irregular Hunter X [JP] {ULJM-05043}
+Jak & Daxter: The Lost Fontier [JP] {UCJS-10103}
+Jak & Daxter: The Lost Fontier [US] {UCUS-98634}
+Jak & Daxter: The Lost Frontier [EU] {UCES-01225}
+James Cameron’s Avatar The Game [US] {ULUS-10451}
+JellyCar [HB] {HBF5BAC6D5}
+Juiced 2: Hot Import Nights [US] {ULUS-10312}
+Juiced Eliminator [EU] {ULES-00379}
+Justice League Heroes [US] {ULUS-10214}
+Kahoots (mini) [EU] {NPEZ-00009}
+Kahoots (mini) [US] {NPUZ-00030}
+Katekyoo Hitman Reborn! Battle Arena 2: Spirits Burst [JP] {ULJS-00218}
+Katekyoo Hitman Reborn! Battle Arena [JP] {ULJS-00157}
+Kenka Bancho Badass Rumble [US] {ULUS-10442}
+Killzone: Liberation [US] {UCUS-98646}
+Kingdom Hearts: Birth By Sleep [JP] {ULJM-05600}
+Kurulin Fusion [EU] {NPEH-00033}
+Kurulin Fusion [US] {NPUH-10042}
+L no Kisetsu: Double Pocket [JP] {ULJM-05555}
+Lara Croft Tomb Raider: Anniversary [EU] {ULES-00826}
+Lara Croft Tomb Raider: Legends [EU] {ULES-00283}
+LEGO Batman: The Video Game (demo) [US] {NPUH-90019}
+LEGO Batman: The Video Game [EU] {ULES-01151}
+LEGO Batman: The Video Game [US] {ULUS-10380}
+LEGO Indiana Jones 2: The Adventure Continues [EU] {ULES-01370}
+LEGO Indiana Jones 2: The Adventure Continues [US] {ULUS-10487}
+LEGO Indiana Jones: The Original Adventures [EU] {ULES-01086}
+LEGO Indiana Jones: The Original Adventures [US] {ULUS-10365}
+Lemmings [EU] {UCES-00109}
+LittleBigPlanet (demo) [EU] {NPEG-90019}
+LittleBigPlanet (demo) [HK] {NPHG-00035}
+LittleBigPlanet (demo) [US] {UCUS-70064}
+LittleBigPlanet [EU] {UCES-01264}
+LittleBigPlanet [US] {UCUS-98744}
+LocoRoco (christmas demo) [CN] {HBB306E3DC}
+LocoRoco (christmas demo) [EU] {HBE011CB25}
+LocoRoco (christmas demo) [JP] {HB4FC6C1E7}
+LocoRoco (christmas demo) [KR] {HBEC1552DD}
+LocoRoco (christmas demo) [US] {HB4D98344E}
+LocoRoco (demo 2) [JP] {HBF5A46300}
+LocoRoco (demo 3) [JP] {HB90AB0A98}
+LocoRoco (demo) [CN] {HB92FC645B}
+LocoRoco (demo) [EU] {HBE6426EED}
+LocoRoco (demo) [JP] {HBD0CE6684}
+LocoRoco (demo) [KR] {HB3F7F9FC6}
+LocoRoco (demo) [US] {HB0EA885E0}
+LocoRoco (halloween demo) [CN] {HB734CE31E}
+LocoRoco (halloween demo) [EU] {HB1987D527}
+LocoRoco (halloween demo) [KR] {HBF83A44B5}
+LocoRoco (halloween demo) [US] {HBB80D0359}
+LocoRoco (Toku Toku Pack) [JP] {UCJB-98011}
+LocoRoco 2 (demo) [EU] {NPEG-90012}
+LocoRoco 2 (demo) [HK] {NPHG-00014}
+LocoRoco 2 (demo) [JP] {NPJG-90034}
+LocoRoco 2 (demo) [US] {NPUG-98731}
+LocoRoco 2 [EU] {UCES-01059}
+LocoRoco Midnight Carnival [EU] {NPEG-00024}
+LocoRoco Midnight Carnival [HK] {NPHG-00024}
+LocoRoco Midnight Carnival [JP] {NPJG-00034}
+LocoRoco Midnight Carnival [US] {NPUG-80318}
+LocoRoco [CN] {UCAS-40063}
+LocoRoco [EU] {UCES-00304}
+LocoRoco [JP] {UCJS-10041}
+LocoRoco [KR] {UCKS-45020}
+LocoRoco [US] {UCUS-98662}
+Lord of the Rings: Tactics, The [EU] {ULES-00198}
+Lumines II [EU] {ULES-00553}
+Lumines [EU] {ULES-00043}
+Lunar: Silver Star Harmony (demo) [JP] {NPJH-90073}
+Lunar: Silver Star Harmony (demo) [US] {NPUH-90053}
+Lunar: Silver Star Harmony [US] {ULUS-10482}
+Luxor: Pharaoh’s Challenge [US] {ULUS-10333}
+Macross Ace Frontier [JP] {ULJS-00158}
+Macross Ultimate Frontier [JP] {NPJH-50050}
+Madden NFL 10 [US] {ULUS-10441}
+Mahjongg Artifacts: Chapter 2 (mini) [EU] {NPEZ-00003}
+Mahjongg Artifacts: Chapter 2 (mini) [US] {NPUZ-00006}
+Major League Baseball 2K9 [JP] {ULJS-00200}
+Makai Senki Disgaea 1 Portable [JP] {ULJS-00089}
+Mana Khemia 2: Portable [JP] {ULJM-05519}
+Mana Khemia: Alchemists of Al-Revis Portable+ [JP] {ULJM-05345}
+Mana Khemia: Student Alliance [EU] {ULES-01215}
+Mana Khemia: Student Alliance [US] {ULUS-10408}
+Manhunt 2 [EU] {ULES-00756}
+Marvel Nemesis: Rise of the Imperfects [EU] {ULES-00159}
+Marvel Nemesis: Rise of the Imperfects [US] {ULUS-10033}
+Marvel Super Hero Squad [US] {ULUS-10485}
+Marvel Ultimate Alliance 2 [US] {ULUS-10421}
+Marvel Ultimate Alliance [EU] {ULES-00542}
+Me & My Katamari [EU] {ULES-00339}
+Medal Of Honor Heroes 2 [US] {ULUS-10310}
+Medal of Honor Heroes [US] {ULUS-10141}
+Medievil: Resurrection [EU] {UCES-00006}
+Megaman Maverick Hunter X [EU] {ULES-00251}
+Megaman Maverick Hunter X [US] {ULUS-10068}
+Megaman Powered Up [EU] {ULES-00307}
+Megaman Powered Up [US] {ULUS-10091}
+Mercury Meltdown (demo) [EU] {HBF265212D}
+Mercury Meltdown (demo) [JP] {HB943AE04E}
+Mercury Meltdown [EU] {ULES-00466}
+Metal Gear Ac!d 2 [JP] {ULJM-05047}
+Metal Gear Ac!d [EU] {ULES-00008}
+Metal Gear Ac!d [JP] {ULJM-05001}
+Metal Gear Solid Portable Ops+ [EU] {ULES-01003}
+Metal Gear Solid: Portable Ops [EU] {ULES-00645}
+Metal Gear Solid: Portable Ops [US] {ULUS-10202}
+Metal Slug XX [US] {ULUS-10495}
+Metal Slug: Anthology [US] {ULUS-10154}
+Miami Vice [US] {ULES-00375}
+Midnight Club 3: DUB Edition [EU] {ULES-00108}
+Midnight Club LA Remix [EU] {ULES-01144}
+Midnight Club LA Remix [JP] {ULJS-00180}
+Midnight Club LA Remix [US] {ULUS-10383}
+Midway Arcade Treasures: Extended Play [EU] {ULES-00180}
+Midway Arcade Treasures: Extended Play [US] {ULUS-10559}
+Mind Quiz [EU] {ULES-00701}
+Minna no Sukkiri [JP] {UCJS-10094}
+MLB 09 The Show [US] {UCUS-98730}
+Monster Hunter Freedom 2 [EU] {ULES-00851}
+Monster Hunter Freedom 2 [US] {ULUS-10266}
+Monster Hunter Freedom Unite (demo) [EU] {NPEH-90011}
+Monster Hunter Freedom Unite (demo) [US] {ULUS-90003}
+Monster Hunter Freedom Unite [EU] {ULES-01213}
+Monster Hunter Freedom Unite [US] {ULUS-10391}
+MotoGP (demo) [EU] {HB8D8A5A8B}
+MotoGP [US] {ULUS-10153}
+Motorstorm Arctic Edge [KR] {UCKS-45124}
+Motorstorm Arctic Edge [US] {UCUS-98743}
+Motorstorm Artic Edge (demo) [EU] {NPEG-90018}
+Motorstorm Artic Edge (demo) [US] {NPUG-80265}
+Motorstorm Artic Edge [EU] {UCES-01250}
+Musou Orochi Mao Sairin [JP] {ULJM-05402}
+Musou Orochi [JP] {ULJM-05314}
+MX vs ATV: Reflex [US] {ULUS-10429}
+MX vs ATV: Untamed [EU] {ULES-00993}
+MX vs ATV: Untamed [US] {ULUS-10330}
+Mytran Wars [EU] {ULES-01098}
+N+ [EU] {ULES-01026}
+N+ [US] {ULUS-10340}
+Nanatama Chronicle of Dungeon Maker [JP] {ULJM-05434}
+Narisokonai Eiyutan [JP] {ULJS-00177}
+Naruto Shippuden: Akatsuki Rising [EU] {ULES-01306}
+Naruto Shippuuden: Narutimate Accel 3 [JP] {ULJS-00236}
+Naruto: Ultimate Ninja Heroes 2 [IT] {ULES-01088}
+Naruto: Ultimate Ninja Heroes 2 [US] {ULUS-10349}
+Naruto: Ultimate Ninja Heroes [US] {ULUS-10299}
+NBA 2K10 [US] {ULUS-10474}
+Need for Speed Carbon: Own the City [CN] {ULAS-42080}
+Need for Speed Carbon: Own the City [EU] {ULES-00576}
+Need for Speed Carbon: Own the City [JP] {ULJM-05204}
+Need for Speed Carbon: Own the City [KR] {ULKS-46034}
+Need for Speed Carbon: Own the City [US] {ULUS-10114}
+Need for Speed Most Wanted 5-1-0 [CN] {ULAS-42031}
+Need for Speed Most Wanted 5-1-0 [EU] {ULES-00196}
+Need for Speed Most Wanted 5-1-0 [JP] {ULJM-05073}
+Need for Speed Most Wanted 5-1-0 [KR] {ULKS-46044}
+Need for Speed Most Wanted 5-1-0 [US] {ULUS-10036}
+Need for Speed ProStreet [EU] {ULES-01019}
+Need for Speed ProStreet [EU] {ULES-01020}
+Need for Speed ProStreet [JP] {ULJM-05308}
+Need for Speed ProStreet [US] {ULUS-10331}
+Need for Speed Shift [EU] {ULES-01275}
+Need for Speed Shift [JP] {ULJM-05494}
+Need for Speed Shift [US] {ULUS-10462}
+Need for Speed Undercover [EU] {ULES-01145}
+Need for Speed Undercover [JP] {ULJM-05403}
+Need for Speed Undercover [US] {ULUS-10376}
+Need for Speed Underground Rivals [EU] {ULES-00025}
+Need for Speed Underground Rivals [JP] {ULJM-05008}
+Need for Speed Underground Rivals [KR] {ULKS-46004}
+Need for Speed Underground Rivals [US] {ULUS-10007}
+Neverland Card Battles [US] {ULUS-10382}
+NFL Street 2: Unleashed [EU] {ULES-00036}
+Nishimura Kyoutarou Travel Mystery: Akugyaku no Kisetsu [JP] {ULJS-00197}
+No Gravity: The Plague of Mind [EU] {NPEH-00002}
+No Gravity: The Plague of Mind [US] {NPUH-10007}
+Numblast (demo) [EU] {NPEG-90014}
+Obscure: The Aftermatch [EU] {ULES-01340}
+Obscure: The Aftermatch [US] {ULUS-10484}
+Off Road [EU] {ULES-00963}
+Outrun 2006: Coast 2 Coast [EU] {ULES-00262}
+PaRappa The Rapper: The Hip Hop Hero [US] {UCUS-98702}
+Patapon 2 [EU] {UCES-01177}
+Patapon 2 [US] {UCUS-98732}
+Patapon [EU] {UCES-00995}
+Patapon [US] {UCUS-98711}
+Persona 3 Portable [JP] {NPJH-50040}
+Phantasy Star Portable [EU] {ULES-01218}
+Phantasy Star Portable [US] {ULUS-10410}
+Pia Carrot e Youkoso!! G.P. Gakuen Princess Portable [JP] {ULJM-05464}
+Pimp My Ride [US] {ULUS-10256}
+Pinball Dreams (mini) [EU] {NPEZ-00021}
+Pinball Dreams (mini) [US] {NPUZ-00054}
+Pinball Fantasies (mini) [EU] {NPEZ-00022}
+Pinball Fantasies (mini) [US] {NPUZ-00017}
+Pinball Hall of Fame: Gottlieb Collection [US] {ULUS-10052}
+Pipe Mania (demo) [EU] {NPEH-90006}
+Pipe Mania (demo) [US] {NPUH-90012}
+PixelJunk Monsters Deluxe (demo) [EU] {NPEG-90015}
+PixelJunk Monsters Deluxe (demo) [JP] {NPJH-90072}
+PixelJunk Monsters Deluxe (demo) [US] {NPUG-70057}
+PixelJunk Monsters Deluxe [EU] {NPEG-00017}
+PixelJunk Monsters Deluxe [US] {NPUG-80248}
+Platypus [EU] {ULES-01029}
+Platypus [US] {ULUS-10203}
+Pocket Racers [US] {ULUS-10163}
+Pop’n Music Portable [JP] {ULJM-05605}
+Popolocrois Monogatari [JP] {UCJS-10005}
+Powernoid [HB] {HB5AB6838E}
+PQ: Practical Intelligence Quotient [US] {ULUS-10046}
+Prince of Persia: Revelations [US] {ULUS-10063}
+Prinny: Can I Really Be the Hero? (demo) [JP] {NPJH-90008}
+Prinny: Can I Really Be the Hero? [EU] {ULES-01278}
+Prinny: Can I Really Be the Hero? [US] {ULUS-10407}
+Prinny: Ore Ga Shujinko De Iinsuka [JP] {ULJS-00150}
+Pro Evolution Soccer 2009 [EU] {ULES-01176}
+Pro Evolution Soccer 2010 [EU] {ULES-01353}
+Pro Evolution Soccer 6 [EU] {ULES-00476}
+Project Witch [JP] {ULJM-05470}
+Promethus (demo) [US] {NPUH-90052}
+Pursuit Force [EU] {UCES-00018}
+Pursuit Force [US] {UCUS-98640}
+Puzzle Chronicles [US] {ULUS-10468}
+Puzzle Guzzle (demo) [US] {NPUH-90004}
+Puzzle Scape Mini (mini) [EU] {NPEZ-00001}
+Queen’s Blade: Spiral Chaos [JP] {ULJS-00190}
+R-Type Tactics [EU] {ULES-01121}
+Ratchet & Clank: Size Matters [EU] {UCES-00420}
+Ratchet & Clank: Size Matters [JP] {UCJS-10052}
+Ratchet & Clank: Size Matters [US] {UCUS-98633}
+Red Bull X-Fighters (mini) [EU] {NPEZ-00100}
+Rengoku 2 [EU] {ULES-00437}
+Resistance: Retribution (demo) [EU] {NPEG-90013}
+Resistance: Retribution (demo) [JP] {NPJG-90037}
+Resistance: Retribution (demo) [US] {NPUG-22850}
+Resistance: Retribution [EU] {UCES-01184}
+Resistance: Retribution [US] {UCUS-98668}
+Retro Cave Flyer (mini) [EU] {NPEZ-00141}
+Retro Cave Flyer (mini) [US] {NPUZ-00060}
+Ridge Racer 2 [EU] {UCES-00422}
+Ridge Racer [EU] {UCES-00002}
+Riviera: The Promised Land [EU] {ULES-00818}
+Riviera: The Promised Land [US] {ULUS-10286}
+Rock Band Unplugged [EU] {ULES-01243}
+Rock Band Unplugged [US] {ULUS-10418}
+Rush [US] {ULUS-10174}
+Savage Moon: The Hera Campaign [EU] {NPEG-00019}
+Savage Moon: The Hera Campaign [US] {NPUG-80328}
+Secret Agent Clank [EU] {UCES-00942}
+Secret Agent Clank [US] {UCUS-98697}
+Sega Rally [EU] {UCES-00910}
+Senjou No Valkyria 2 [JP] {NPJH-50145}
+Shadow of Destiny [US] {ULUS-10459}
+Shadow of Memories [JP] {ULJM-05512}
+Shin Megami Tensei: Devil Summoner [JP] {ULJM-05053}
+Shin Megami Tensei: Persona [US] {ULUS-10432}
+Shin Sangoku Musou 5 Special [JP] {ULJM-05524}
+Shinseiki Evangelion: Koutetsu no Girlfriend 2nd Portable [JP] {ULJM-05477}
+Shinseiki GPX Cyber Formula VS [JP] {ULJS-00142}
+Shrek the Third [US] {ULUS-10248}
+Silent Hill: Origins [EU] {ULES-00869}
+Silent Hill: Origins [JP] {ULJM-05281}
+Silent Hill: Origins [US] {ULUS-10285}
+Silent Hill: Shattered Memories [EU] {ULES-01352}
+Silent Hill: Shattered Memories [US] {ULUS-10450}
+Simpsons Game, The [EU] {ULES-00975}
+Sims 2, The: Castaway [EU] {ULES-00945}
+Smart Bomb [US] {ULUS-10016}
+Smash Court Tennis 3 [EU] {UCES-00758}
+SOCOM: US Navy SEALs Fireteam Bravo 3 [US] {UCUS-98716}
+SOCOM: US Navy SEALs Fireteam Bravo 2 [US] {UCUS-98645}
+SOCOM: US Navy SEALs Fireteam Bravo [EU] {UCES-00038}
+SOCOM: US Navy SEALs Portable [JP] {UCJS-10102}
+SOCOM: US Navy SEALs Tactical Strike [US] {UCUS-98649}
+Sonic Rivals 2 [EU] {ULES-00940}
+Sonic Rivals 2 [US] {ULUS-10323}
+Soul Calibur Broken Destiny [EU] {ULES-01298}
+Soul Calibur Broken Destiny [JP] {ULJS-00202}
+Soul Calibur Broken Destiny [US] {ULUS-10457}
+Space Invaders Extreme [EU] {ULES-01078}
+Space Invaders Extreme [JP] {ULJM-05315}
+Space Invaders Extreme [US] {ULUS-10346}
+Spectral Force Legacy [JP] {ULJM-05523}
+Spider-Man 2 [EU] {ULES-00022}
+Spider-Man 3 [EU] {ULES-00938}
+Spider-Man 3 [US] {ULUS-10317}
+Spider-Man: Friend or Foe [US] {ULUS-10318}
+Spider-Man: Web of Shadows [EU] {ULES-01174}
+Spider-Man: Web of Shadows [US] {ULUS-10389}
+Spot the Differences (mini) [EU] {NPEZ-00107}
+Spot the Differences (mini) [US] {NPUZ-00034}
+Stand O’Food (mini) [EU] {NPEZ-00002}
+Stand O’Food (mini) [US] {NPUZ-00029}
+Star Ocean: First Departure [JP] {ULJM-05290}
+Star Ocean: Second Evolution [JP] {ULJM-05325}
+Star Ocean: Second Evolution [US] {ULUS-10375}
+Star Wars: Battlefront 2 [EU] {ULES-00183}
+Star Wars: Battlefront 2 [US] {ULUS-10053}
+Star Wars: The Force Unleashed [US] {ULUS-10345}
+Street Fighter Alpha 3 Max [EU] {ULES-00235}
+Street Fighter Alpha 3 Max [JP] {ULJM-05082}
+Street Fighter Alpha 3 Max [US] {ULUS-10062}
+Street Riders [EU] {ULES-00276}
+Sudoku (mini) [EU] {NPEZ-00027}
+Sudoku (mini) [US] {NPUZ-00001}
+Super Monkey Ball Adventures [EU] {ULES-00364}
+Super Pocket Tennis [US] {NPUH-10028}
+Super Robot Taisen A Portable [JP] {ULJS-00143}
+Super Robot Taisen MX Portable [JP] {ULJS-00041}
+Syphon Filter: Dark Mirror [US] {UCUS-98641}
+Syphon Filter: Logan’s Shadow [EU] {UCES-00710}
+Syphon Filter: Logan’s Shadow [US] {UCUS-98606}
+Taikou Risshiden V [JP] {ULJM-05525}
+Tales of Destiny 2 [JP] {ULJS-00097}
+Tales of Eternia [EU] {ULES-00176}
+Tales of Eternia [JP] {ULJS-00015}
+Tales of Phantasia: Full Voiced Edition [JP] {ULJS-00079}
+Tales of Rebirth [JP] {ULJS-00132}
+Tales of The World: Radiant Mythology 2 [JP] {ULJS-00175}
+Tales of The World: Radiant Mythology [EU] {ULES-00837}
+Tales of The World: Radiant Mythology [JP] {ULJM-95004}
+Tales of The World: Radiant Mythology [JP] {ULJS-00093}
+Tales of The World: Radiant Mythology [JP] {ULJS-19019}
+Tales of The World: Radiant Mythology [US] {ULUS-10271}
+Tales of VS [JP] {ULJS-00209}
+Tekken 6 [EU] {ULES-01376}
+Tekken 6 [US] {ULUS-10466}
+Tekken: Dark Resurrection [EU] {UCES-00356}
+Tekken: Dark Resurrection [JP] {ULJS-00048}
+Tekken: Dark Resurrection [US] {ULUS-10139}
+Telegraph Crosswords (mini) [EU] {NPEZ-00112}
+Tenchu: Shadow Assassins [EU] {ULES-01237}
+Tengai Makyo Dai 4 No Monshiroku [JP] {ULJM-05106}
+Terminator, The (mini) [EU] {NPEZ-00140}
+Terminator, The (mini) [US] {NPUZ-00056}
+Test Drive Unlimited [EU] {ULES-00637}
+Test Drive Unlimited [US] {ULUS-10249}
+Tetris (mini) [EU] {NPEZ-00093}
+Tetris (mini) [US] {NPUZ-00003}
+Thexder-Neo [EU] {NPEH-00021}
+Thexder-Neo [JP] {NPJH-00004}
+Thexder-Neo [US] {NPUH-10019}
+Thrillville [US] {ULUS-10191}
+Thrillville: Off the Rails [US] {ULUS-10306}
+Tiger Woods PGA Tour 09 [EU] {ULES-01120}
+Tiger Woods PGA Tour 10 [EU] {ULES-01260}
+TMNT [EU] {ULES-00759}
+TMNT [US] {ULUS-10243}
+Tom Clancy’s EndWar [EU] {ULES-01068}
+Tom Clancy’s EndWar [US] {ULUS-10358}
+Tom Clancy’s Rainbow Six Vegas [EU] {ULES-00584}
+Tony Hawks Project 8 [US] {ULUS-10197}
+Tony Hawks Underground 2 Remix [US] {ULUS-10014}
+Transformers The Game [EU] {ULES-00823}
+Transformers The Game [US] {ULUS-10274}
+Transformers: Revenge of the Fallen [EU] {ULES-01286}
+Transformers: Revenge of the Fallen [US] {ULUS-10433}
+Twisted Metal: Head-On [US] {UCUS-98601}
+Ultimate Ghosts ‘N Goblins [EU] {ULES-00419}
+Ultimate Ghosts ‘N Goblins [US] {ULUS-10105}
+Undead Knights [US] {ULUS-10453}
+Untold Legends: Brotherhood of the Blade [EU] {ULES-00046}
+Untold Legends: Brotherhood of the Blade [US] {ULUS-10003}
+Untold Legends: The Warrior’s Code [EU] {ULES-00301}
+Up [EU] {ULES-01253}
+Valhalla Knights 2 [US] {ULUS-10366}
+Valhalla Knights [JP] {ULJS-00075}
+Valhalla Knights [US] {ULUS-10230}
+Valkyrie Profile Lenneth [EU] {ULES-00724}
+Vempire (mini) [EU] {NPEZ-00058}
+Vempire (mini) [US] {NPUZ-00015}
+Vulcanus [JP] {ULJM-05449}
+WALL-E [US] {ULUS-10350}
+Warhammer 40,000: Squad Command (demo) [EU] {HBA3CC1FC9}
+Warhammer 40,000: Squad Command (demo) [US] {HB811EF737}
+Warhammer 40,000: Squad Command [EU] {ULES-00873}
+Warhammer 40,000: Squad Command [US] {ULUS-10313}
+Warriors of the Lost Empire [EU] {ULES-00924}
+Warriors Orochi 2 [EU] {ULES-01261}
+Warriors Orochi 2 [US] {ULUS-10423}
+Warriors Orochi [US] {ULUS-10341}
+Warship Gunner 2 [JP] {ULJM-05553}
+Winning Post 6 2008 [JP] {ULJM-05341}
+Winning Post 7 2009 [JP] {ULJM-05546}
+Wipeout Pulse (demo) [EU] {NPEG-90003}
+Wipeout Pulse (demo) [US] {NPUG-70008}
+Wipeout Pulse [EU] {UCES-00465}
+Wipeout Pulse [US] {UCUS-98712}
+Wipeout Pure [EU] {UCES-00001}
+World Tour Soccer (demo) [EU] {HBAFB1FAC5}
+World Tour Soccer [EU] {ULES-00003}
+Worms: Open Warfare 2 (demo) [EU] {HB5A7D9141}
+Worms: Open Warfare 2 [EU] {ULES-00819}
+Worms: Open Warfare 2 [US] {ULUS-10260}
+Worms: Open Warfare [EU] {ULES-00268}
+Worms: Open Warfare [US] {ULUS-10065}
+WWE SmackDown vs. RAW 2009 [EU] {ULES-01165}
+WWE SmackDown vs. RAW 2009 [US] {ULUS-10384}
+WWE SmackDown vs. RAW 2010 [EU] {ULES-01339}
+WWE SmackDown vs. RAW 2010 [US] {ULUS-10452}
+X-Men Legends II: Rise of Apocalypse [EU] {ULES-00189}
+X-Men Origins: Wolverine [EU] {ULES-01226}
+X-Men Origins: Wolverine [US] {ULUS-10411}
+Xyanide: Resurrection (demo) [EU] {HB4B21CEF8}
+Yamada Yuusuke World Puzzle: Bokura no 48 Jikan Sensou [JP] {ULJM-05543}
+YetiSports (mini) [EU] {NPEZ-00099}
+Ys 1 & 2 Chronicles [JP] {ULJM-05474}
+Ys Seven [JP] {ULJM-05475}
+Yu-Gi-Oh! 5D’s Tag Force 4 [EU] {ULES-01362}
+Yu-Gi-Oh! 5D’s Tag Force 4 [JP] {ULJM-05479}
+Yu-Gi-Oh! 5D’s Tag Force 4 [US] {ULUS-10481}
+Yu-Gi-Oh! GX Tag Force 2 [EU] {ULES-00925}
+Yu-Gi-Oh! GX Tag Force 2 [JP] {ULJM-05260}
+Yu-Gi-Oh! GX Tag Force 2 [US] {ULUS-10302}
+Yu-Gi-Oh! GX Tag Force 3 [EU] {ULES-01183}
+Yu-Gi-Oh! GX Tag Force 3 [JP] {ULJM-05373}
+Yu-Gi-Oh! GX Tag Force [EU] {ULES-00600}
+Yu-Gi-Oh! GX Tag Force [JP] {ULJM-05151}
+Yummy Yummy Cooking Jam (mini) [EU] {NPEZ-00094}
+Yummy Yummy Cooking Jam (mini) [US] {NPUZ-00018}
+Zettai Zetsumei Toshi 3 [JP] {ULJS-00191}
+Zombie Tycoon (mini) [EU] {NPEZ-00029}
+Zombie Tycoon (mini) [US] {NPUZ-00025}
