@@ -22,10 +22,13 @@ def loadGameDictionary(dictionaryPath):
 		gameId = re.sub('-', '', searchId.group())
 		
 		g_gameDictionary[gameId] = gameName;
+		
+load_dotenv('ftb_discord.env')
+load_dotenv()
 
 g_gameDictionary={}
 
-load_dotenv()
+g_TEST_CHANNEL = int(os.getenv('CHAN_STAFFCHAT'))
 
 loadGameDictionary('psp-game-ids.txt')
 
@@ -43,6 +46,9 @@ async def on_member_join(member):
 	
 @bot.command()
 async def online(ctx):
+	if isNotTestChannel(ctx.channel.id):
+		return None
+	
 	async with ctx.typing():
 	
 		print('Online command received')
@@ -88,8 +94,11 @@ def formatOnlineEmbed(gameList):
 		
 	return embedVar
 	
-def parseGameId(gameId):
-	pass
+def isNotTestChannel(id):
+	if id != g_TEST_CHANNEL:
+		return True
+	else:
+		return False
 
 #bot.add_command(online)
 
