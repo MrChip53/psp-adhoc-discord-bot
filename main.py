@@ -28,7 +28,7 @@ load_dotenv()
 
 g_gameDictionary={}
 
-g_TEST_CHANNEL = int(os.getenv('CHAN_STAFFCHAT'))
+g_TEST_CHANNEL = int(os.getenv('CHAN_DISCORDBOTS'))
 
 loadGameDictionary('psp-game-ids.txt')
 
@@ -44,11 +44,8 @@ async def on_ready():
 async def on_member_join(member):
 	pass
 	
-@bot.command()
+@bot.command(pass_context=True, aliases=['who', 'wo'])
 async def online(ctx):
-	if isNotTestChannel(ctx.channel.id):
-		return None
-	
 	async with ctx.typing():
 	
 		print('Online command received')
@@ -65,7 +62,12 @@ async def online(ctx):
 
 		totalPlayers = prometheus[0].attributes['usercount'].value
 
-		await ctx.send('Total Players Online: ' + totalPlayers, embed=response)
+		if int(totalPlayers) == 1:
+			totalPlayersStr = ' player connected'
+		else:
+			totalPlayersStr = ' players connected'
+		
+		await ctx.send(totalPlayers + totalPlayersStr, embed=response)
 
 def formatOnlineEmbed(gameList):
 	embedVar = discord.Embed()
@@ -89,7 +91,14 @@ def formatOnlineEmbed(gameList):
 		if re.search('^[A-Za-z]{4}(?:|[0-9_]{5})$', gameName) != None:
 			gameName = g_gameDictionary[gameName]
 		
-		embedVar.add_field(name=gameName, value='Players Online: ' + game.attributes['usercount'].value + '\n' + playerString, inline=False)
+		onlinePlayers = game.attributes['usercount'].value
+		
+		if int(onlinePlayers) == 1:
+			onlinePlayersStr = ' player'
+		else:
+			onlinePlayersStr = ' players'
+		
+		embedVar.add_field(name=gameName, value=onlinePlayers + onlinePlayersStr + '\n' + playerString, inline=False)
 		
 		
 	return embedVar
