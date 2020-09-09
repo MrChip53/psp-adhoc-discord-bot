@@ -1,13 +1,30 @@
 import os
 
 import discord
-from discord.ext import commands
+from discord.ext import commands, tasks
 
 import random
 from xml.dom import minidom
 import urllib.request, urllib.error, urllib.parse
 from dotenv import load_dotenv
 import re
+
+def getGamePlayers(webXML, gameName):
+	gameList = webXML.getElementsByTagName('game')
+	
+	for game in gameList:
+		if re.search(gameName, game.attributes['name'].value) != None:
+			return game.attributes['usercount'].value
+	
+	return None
+		
+
+def getWebXML():
+	webpageResponse = urllib.request.urlopen('https://www.socomftb2.com/status.xml')
+	webpageContent = webpageResponse.read()
+		
+	webXML = minidom.parseString(webpageContent.decode("utf-8"))
+	return webXML
 
 def loadGameDictionary(dictionaryPath):
 	dictionaryFile = open(dictionaryPath, 'r')
@@ -36,9 +53,20 @@ bot_token = os.getenv('DISCORD_TOKEN')
 
 bot = commands.Bot(command_prefix='!')
 
+@tasks.loop(minutes=10.0)
+async def monitor_ftbb():
+	webXML = getWebXML()
+	
+	players = getGamePlayers(webXML, 'Fireteam Bravo 2')
+	
+	if players is not None:
+		channel = bot.get_channel(g_TEST_CHANNEL)
+		await channel.send(players + ' player(s) are on FTB2! Come join in on the fun!')
+
 @bot.event
 async def on_ready():
 	print(f'{bot.user} has connected to Discord!')
+	await monitor_ftbb.start()
 	
 @bot.event	
 async def on_member_join(member):
@@ -49,10 +77,7 @@ async def online(ctx):
 	async with ctx.typing():
 	
 		print('Online command received')
-		webpageResponse = urllib.request.urlopen('https://www.socomftb2.com/status.xml')
-		webpageContent = webpageResponse.read()
-		
-		webXML = minidom.parseString(webpageContent.decode("utf-8"))
+		webXML = getWebXML()
 		
 		prometheus = webXML.getElementsByTagName('prometheus')
 		
@@ -75,9 +100,9 @@ def formatOnlineEmbed(gameList):
 		embedVar.add_field(name='No games!', value='No players online!')
 		return embedVar
 		
-	
+	gameNum = 0
 	for game in gameList:
-	
+		gameNum += 1
 		playerList = game.getElementsByTagName('user')
 		playerString = '```\n'
 		
@@ -85,6 +110,9 @@ def formatOnlineEmbed(gameList):
 			playerString = playerString + player.firstChild.nodeValue + '\n'
 		
 		playerString = playerString + '```'
+		
+		if len(gameList) > 1 and gameNum < len(gameList):
+			playerString += '\n\u200B'
 		
 		gameName = game.attributes['name'].value
 		
@@ -104,11 +132,9 @@ def formatOnlineEmbed(gameList):
 	return embedVar
 	
 def isNotTestChannel(id):
-	if id != g_TEST_CHANNEL:
+	if id is not g_TEST_CHANNEL:
 		return True
 	else:
 		return False
-
-#bot.add_command(online)
 
 bot.run(bot_token)
