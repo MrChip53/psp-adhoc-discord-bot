@@ -7,8 +7,28 @@ import random
 from xml.dom import minidom
 import urllib.request, urllib.error, urllib.parse
 from dotenv import load_dotenv
+import re
+
+def loadGameDictionary(dictionaryPath):
+	dictionaryFile = open(dictionaryPath, 'r')
+	Lines = dictionaryFile.readlines()
+	
+	for line in Lines:
+		line = line.strip()
+		
+		searchId = re.search('(?<=\{)(.*?)(?=\})', line)
+		
+		gameName = line[0:searchId.span()[0] - 2]
+		gameId = re.sub('-', '', searchId.group())
+		
+		g_gameDictionary[gameId] = gameName;
+
+g_gameDictionary={}
 
 load_dotenv()
+
+loadGameDictionary('psp-game-ids.txt')
+
 bot_token = os.getenv('DISCORD_TOKEN')
 
 bot = commands.Bot(command_prefix='!')
@@ -31,11 +51,15 @@ async def online(ctx):
 		
 		webXML = minidom.parseString(webpageContent.decode("utf-8"))
 		
+		prometheus = webXML.getElementsByTagName('prometheus')
+		
 		gameList = webXML.getElementsByTagName('game')
 			
 		response = formatOnlineEmbed(gameList)
 
-		await ctx.send('Online Players', embed=response)
+		totalPlayers = prometheus[0].attributes['usercount'].value
+
+		await ctx.send('Total Players Online: ' + totalPlayers, embed=response)
 
 def formatOnlineEmbed(gameList):
 	embedVar = discord.Embed()
@@ -54,11 +78,18 @@ def formatOnlineEmbed(gameList):
 		
 		playerString = playerString + '```'
 		
-		embedVar.add_field(name=game.attributes['name'].value, value='Players Online: ' + game.attributes['usercount'].value + '\n' + playerString, inline=False)
+		gameName = game.attributes['name'].value
+		
+		if re.search('^[A-Za-z]{4}(?:|[0-9_]{5})$', gameName) != None:
+			gameName = g_gameDictionary[gameName]
+		
+		embedVar.add_field(name=gameName, value='Players Online: ' + game.attributes['usercount'].value + '\n' + playerString, inline=False)
 		
 		
 	return embedVar
-
+	
+def parseGameId(gameId):
+	pass
 
 #bot.add_command(online)
 
